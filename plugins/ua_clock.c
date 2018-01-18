@@ -1,5 +1,10 @@
 /* This work is licensed under a Creative Commons CCZero 1.0 Universal License.
- * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. */
+ * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. 
+ *
+ *    Copyright 2016-2017 (C) Julius Pfrommer
+ *    Copyright 2017 (C) Stefan Profanter
+ *    Copyright 2017 (C) Thomas Stalder
+ */
 
 /* Enable POSIX features */
 #if !defined(_XOPEN_SOURCE) && !defined(_WRS_KERNEL)

@@ -1,5 +1,10 @@
 /* This work is licensed under a Creative Commons CCZero 1.0 Universal License.
- * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. */
+ * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. 
+ *
+ *    Copyright 2014 (C) Florian Palm
+ *    Copyright 2014-2016 (C) Julius Pfrommer
+ *    Copyright 2015 (C) Sten Grüner
+ */
 
 #ifndef UA_NETWORK_TCP_H_
 #define UA_NETWORK_TCP_H_

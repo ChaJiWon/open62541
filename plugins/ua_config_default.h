@@ -1,5 +1,10 @@
 /* This work is licensed under a Creative Commons CCZero 1.0 Universal License.
- * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. */
+ * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. 
+ *
+ *    Copyright 2016-2017 (C) Julius Pfrommer
+ *    Copyright 2017 (C) Stefan Profanter
+ *    Copyright 2017-2018 (C) Mark Giraud
+ */
 
 #ifndef UA_CONFIG_DEFAULT_H_
 #define UA_CONFIG_DEFAULT_H_

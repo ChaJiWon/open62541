@@ -1,5 +1,14 @@
 /* This work is licensed under a Creative Commons CCZero 1.0 Universal License.
- * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. */
+ * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. 
+ *
+ *    Copyright 2016 (C) Sten Grüner
+ *    Copyright 2016-2017 (C) Julius Pfrommer
+ *    Copyright 2017 (C) Julian Grothoff
+ *    Copyright 2017 (C) Stefan Profanter
+ *    Copyright 2017 (C) Thomas Stalder
+ *    Copyright 2017 (C) frax2222
+ *    Copyright 2017-2018 (C) Mark Giraud
+ */
 
 #include "ua_plugin_securitypolicy.h"
 #include "ua_config_default.h"

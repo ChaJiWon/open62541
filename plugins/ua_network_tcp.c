@@ -1,5 +1,18 @@
 /* This work is licensed under a Creative Commons CCZero 1.0 Universal License.
- * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. */
+ * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. 
+ *
+ *    Copyright 2014-2016 (C) Sten Grüner
+ *    Copyright 2014-2017 (C) Julius Pfrommer
+ *    Copyright 2014, 2016 (C) Florian Palm
+ *    Copyright 2015 (C) Chris Iatrou
+ *    Copyright 2015 (C) Holger Jeromin
+ *    Copyright 2015 (C) Nick Goossens
+ *    Copyright 2015-2016 (C) Oleksiy Vasylyev
+ *    Copyright 2016-2017 (C) Stefan Profanter
+ *    Copyright 2016-2017 (C) Thomas Stalder
+ *    Copyright 2017 (C) Jose Cabral
+ *    Copyright 2017 (C) frax2222
+ */
 
 /* Enable POSIX features */
 #if !defined(_XOPEN_SOURCE) && !defined(_WRS_KERNEL)

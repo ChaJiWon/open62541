@@ -1,5 +1,11 @@
 /* This work is licensed under a Creative Commons CCZero 1.0 Universal License.
- * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. */
+ * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. 
+ *
+ *    Copyright 2014-2015 (C) Sten Grüner
+ *    Copyright 2015 (C) Oleksiy Vasylyev
+ *    Copyright 2015-2017 (C) Julius Pfrommer
+ *    Copyright 2016-2017 (C) Stefan Profanter
+ */
 
 #include "ua_network_udp.h"
 #include <stdio.h>

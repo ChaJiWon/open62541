@@ -1,6 +1,11 @@
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
- * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. 
+ *
+ *    Copyright 2017 (C) Henrik Norrman
+ *    Copyright 2017 (C) Julius Pfrommer
+ *    Copyright 2017 (C) Stefan Profanter
+ */
 
 #ifndef UA_SERVER_CONFIG_H_
 #define UA_SERVER_CONFIG_H_

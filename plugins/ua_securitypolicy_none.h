@@ -1,5 +1,9 @@
 /* This work is licensed under a Creative Commons CCZero 1.0 Universal License.
- * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. */
+ * See http://creativecommons.org/publicdomain/zero/1.0/ for more information. 
+ *
+ *    Copyright 2017 (C) Mark Giraud
+ *    Copyright 2017 (C) Stefan Profanter
+ */
 
 #ifndef UA_SECURITYPOLICY_NONE_H_
 #define UA_SECURITYPOLICY_NONE_H_

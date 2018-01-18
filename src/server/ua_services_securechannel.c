@@ -1,6 +1,15 @@
 /* This Source Code Form is subject to the terms of the Mozilla Public
  * License, v. 2.0. If a copy of the MPL was not distributed with this
- * file, You can obtain one at http://mozilla.org/MPL/2.0/. */
+ * file, You can obtain one at http://mozilla.org/MPL/2.0/. 
+ *
+ *    Copyright 2014 (C) Leon Urbas
+ *    Copyright 2014 (C) opcua
+ *    Copyright 2014-2017 (C) Julius Pfrommer
+ *    Copyright 2014, 2017 (C) Florian Palm
+ *    Copyright 2015 (C) Oleksiy Vasylyev
+ *    Copyright 2017 (C) Mark Giraud
+ *    Copyright 2017 (C) Stefan Profanter
+ */
 
 #include "ua_server_internal.h"
 #include "ua_services.h"
